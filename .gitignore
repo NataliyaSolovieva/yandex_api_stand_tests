@@ -1,7 +1,7 @@
 # created by virtualenv automatically
 .venv
 calc_test
-.idea
+
 main.py
-.pytest_cache
+
 
